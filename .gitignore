@@ -1,0 +1,5 @@
+__pycache__/
+saved_model/
+*.tflite
+*.keras
+model/model.png
